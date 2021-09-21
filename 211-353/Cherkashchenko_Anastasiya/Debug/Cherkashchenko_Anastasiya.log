@@ -1,0 +1,10 @@
+﻿  Cherkashchenko_Anastasiya.cpp
+C:\Users\Cherry\source\repos\211-353\Cherkashchenko_Anastasiya\Cherkashchenko_Anastasiya.cpp(28,89): warning C4305: =: усечение из "__int64" в "unsigned int"
+C:\Users\Cherry\source\repos\211-353\Cherkashchenko_Anastasiya\Cherkashchenko_Anastasiya.cpp(28,23): warning C4309: =: усечение константного значения
+C:\Users\Cherry\source\repos\211-353\Cherkashchenko_Anastasiya\Cherkashchenko_Anastasiya.cpp(41,58): warning C4305: =: усечение из "int" в "unsigned short"
+C:\Users\Cherry\source\repos\211-353\Cherkashchenko_Anastasiya\Cherkashchenko_Anastasiya.cpp(41,25): warning C4309: =: усечение константного значения
+C:\Users\Cherry\source\repos\211-353\Cherkashchenko_Anastasiya\Cherkashchenko_Anastasiya.cpp(59,16): warning C4309: =: усечение константного значения
+C:\Users\Cherry\source\repos\211-353\Cherkashchenko_Anastasiya\Cherkashchenko_Anastasiya.cpp(93,83): warning C4305: =: усечение из "__int64" в "double"
+C:\Users\Cherry\source\repos\211-353\Cherkashchenko_Anastasiya\Cherkashchenko_Anastasiya.cpp(114,21): warning C4309: инициализация: усечение константного значения
+C:\Users\Cherry\source\repos\211-353\Cherkashchenko_Anastasiya\Cherkashchenko_Anastasiya.cpp(125,32): warning C4305: =: усечение из "int" в "bool"
+  Cherkashchenko_Anastasiya.vcxproj -> C:\Users\Cherry\source\repos\211-353\Debug\Cherkashchenko_Anastasiya.exe
